@@ -1,0 +1,1 @@
+运行alien_invasion.py文件即可
